@@ -1,0 +1,374 @@
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+D:\Projects\Final year\Planning Software\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+D:\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+D:\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+D:\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+D:\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+D:\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+D:\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+D:\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+D:\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+D:\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+D:\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+D:\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+E:\Projects\Final Year Project\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+D:\College Projects\Final Year\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+E:\Projects\Final Year Project\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+D:\College Projects\Final Year\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+E:\Projects\Dropbox\Planning Software\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+C:\Users\Shashank\Desktop\Planning Software Correct Design\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+C:\Users\Shashank\Desktop\Planning Software(New By Shashank)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Manage.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Preview.resources
+C:\Users\Shashank\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_allocation.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_allocation.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Manage.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Preview.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+D:\Projects\Final year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_allocation.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Manage.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Preview.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+G:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_allocation.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Manage.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Preview.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+F:\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.dll
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_allocation.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Manage.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Preview.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+C:\Users\Preethi\Desktop\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache
+D:\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+D:\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+D:\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe.config
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.exe
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.pdb
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\diamond.png
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\die.png
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\Pictures\mm.png
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.exe
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\bin\Debug\PlanningSoftware.pdb
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csprojResolveAssemblyReference.cache
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Alter_Order.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Email.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Form1.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_allocation.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Group_Average_Production.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.MachineUpdate.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Manage.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Entry_or_Exit.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Order_Position.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Planning.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Preview.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Properties.Resources.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawNo.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.RawYes.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SingleMachine.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SplashScreen.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.SugessionResults.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.Viewer.resources
+E:\Purnesh\Others\College References\College Projects\Final Year\Planning(3-4-2013)\Planning Software 4\PlanningSoftware\PlanningSoftware\obj\Debug\PlanningSoftware.csproj.GenerateResource.Cache

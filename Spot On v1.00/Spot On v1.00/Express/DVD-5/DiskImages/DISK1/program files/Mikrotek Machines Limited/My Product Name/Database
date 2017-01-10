@@ -1,0 +1,522 @@
+CREATE DATABASE  IF NOT EXISTS `spot_on` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `spot_on`;
+-- MySQL dump 10.13  Distrib 5.6.11, for Win32 (x86)
+--
+-- Host: localhost    Database: spot_on
+-- ------------------------------------------------------
+-- Server version	5.6.13-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `avgprdctn`
+--
+
+DROP TABLE IF EXISTS `avgprdctn`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `avgprdctn` (
+  `Groups` varchar(20) NOT NULL,
+  `WP_B` int(11) DEFAULT NULL,
+  `WP_St` int(11) DEFAULT NULL,
+  `US_Pol` int(11) DEFAULT NULL,
+  `QC_Acc` int(11) DEFAULT NULL,
+  `Disp_Finish` int(11) DEFAULT NULL,
+  `Comb_Group` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`Groups`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `avgprdctn`
+--
+
+LOCK TABLES `avgprdctn` WRITE;
+/*!40000 ALTER TABLE `avgprdctn` DISABLE KEYS */;
+INSERT INTO `avgprdctn` VALUES ('RKT 2',40,40,35,35,45,'Rkt 2 & 3'),('RKT 3',35,35,30,30,40,'Rkt 2 & 3');
+/*!40000 ALTER TABLE `avgprdctn` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `junctionwiseoutputph`
+--
+
+DROP TABLE IF EXISTS `junctionwiseoutputph`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `junctionwiseoutputph` (
+  `Blank_Type` varchar(20) NOT NULL,
+  `Size_Range` varchar(45) NOT NULL,
+  `Sintering` varchar(10) DEFAULT NULL,
+  `Entry_Exit` varchar(10) DEFAULT NULL,
+  `Laser_Drilling` varchar(10) DEFAULT NULL,
+  `US_Shaping` varchar(10) DEFAULT NULL,
+  `WP_Bending` varchar(10) DEFAULT NULL,
+  `WP_Straight` varchar(10) DEFAULT NULL,
+  `US_Polishing` varchar(10) DEFAULT NULL,
+  `WE_Rework` varchar(10) DEFAULT NULL,
+  `VD_Inspection` varchar(10) DEFAULT NULL,
+  `Disp_Finish` varchar(10) DEFAULT NULL,
+  `Disp_Packing` varchar(10) DEFAULT NULL,
+  PRIMARY KEY (`Blank_Type`,`Size_Range`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `junctionwiseoutputph`
+--
+
+LOCK TABLES `junctionwiseoutputph` WRITE;
+/*!40000 ALTER TABLE `junctionwiseoutputph` DISABLE KEYS */;
+INSERT INTO `junctionwiseoutputph` VALUES ('210(25)/310(25)','0.100 - 0.200','15.0','12.5','10.0','12.0','4.0','2.0','2.0','6.0','12.0','5.0','12.0'),('210(25)/310(25)','0.201 - 0.300','15.0','12.5','8.6','12.0','2.7','1.6','1.6','6.0','12.0','5.0','12.0'),('210(25)/310(25)','0.301 - 0.400','15.0','12.5','7.5','12.0','1.6','1.3','1.3','6.0','12.0','5.0','12.0'),('210(25)/310(25)','0.401 - 0.500','15.0','12.5','6.7','12.0','1.6','1.3','1.1','6.0','12.0','5.0','12.0'),('210(25)/310(25)','0.501 - 0.600','15.0','12.5','6.0','0.0','0.0','1.1','1.1','6.0','12.0','5.0','12.0'),('210(25)/310(25)','0.601 - 0.700','15.0','12.5','5.0','0.0','0.0','1.1','1.0','6.0','12.0','5.0','12.0'),('210(25)/310(25)','0.701 - 0.800','15.0','12.5','5.0','0.0','0.0','1.1','1.0','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.100 - 0.200','15.0','12.5','7.5','12.0','2.0','1.8','1.8','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.201 - 0.300','15.0','12.5','6.0','12.0','2.0','1.5','1.5','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.301 - 0.400','15.0','12.5','5.0','12.0','1.6','1.3','1.3','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.401 - 0.500','15.0','12.5','5.0','12.0','1.3','1.3','1.1','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.501 - 0.600','15.0','12.5','6.0','5.0','0.0','1.1','1.1','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.601 - 0.700','15.0','12.5','6.0','5.0','0.0','1.1','1.0','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.701 - 0.800','15.0','12.5','5.0','5.0','0.0','1.0','1.0','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.801 - 0.900','15.0','12.5','4.0','5.0','0.0','1.0','0.9','6.0','12.0','5.0','12.0'),('315(25)/415(25)','0.901 - 1000','15.0','12.5','4.0','5.0','0.0','1.0','0.9','6.0','12.0','5.0','12.0'),('5010/210/310','0.100 - 0.200','15.0','12.5','10.0','12.0','6.7','2.7','2.0','6.0','12.0','5.0','12.0'),('5010/210/310','0.201 - 0.300','15.0','12.5','8.6','12.0','5.0','2.0','2.0','6.0','12.0','5.0','12.0'),('5010/210/310','0.301 - 0.400','15.0','12.5','7.5','12.0','2.7','2.0','1.6','6.0','12.0','5.0','12.0'),('5010/210/310','0.401 - 0.500','15.0','12.5','6.7','12.0','2.0','1.6','1.3','6.0','12.0','5.0','12.0'),('5010/210/310','0.501 - 0.600','15.0','12.5','6.0','5.0','0.0','1.6','1.1','6.0','12.0','5.0','12.0'),('5010/210/310','0.601 - 0.700','15.0','12.5','5.0','5.0','0.0','1.3','1.1','6.0','12.0','5.0','12.0'),('5010/210/310','0.701 - 0.800','15.0','12.5','5.0','5.0','0.0','1.3','1.0','6.0','12.0','5.0','12.0'),('5015/315/415','0.100 - 0.200','15.0','12.5','7.5','12.0','5.0','2.4','1.8','6.0','12.0','5.0','12.0'),('5015/315/415','0.201 - 0.300','15.0','12.5','6.0','12.0','4.0','1.7','1.8','6.0','12.0','5.0','12.0'),('5015/315/415','0.301 - 0.400','15.0','12.5','5.0','12.0','2.4','1.7','1.5','6.0','12.0','5.0','12.0'),('5015/315/415','0.401 - 0.500','15.0','12.5','5.0','12.0','1.8','1.4','1.3','6.0','12.0','5.0','12.0'),('5015/315/415','0.501 - 0.600','15.0','12.5','6.0','6.0','0.0','1.4','1.1','6.0','12.0','5.0','12.0'),('5015/315/415','0.601 - 0.700','15.0','12.5','6.0','6.0','0.0','1.2','1.1','6.0','12.0','5.0','12.0'),('5015/315/415','0.701 - 0.800','15.0','12.5','5.0','6.0','0.0','1.2','1.0','6.0','12.0','5.0','12.0'),('5015/315/415','0.801 - 0.900','15.0','12.5','4.0','6.0','0.0','1.1','0.9','6.0','12.0','5.0','12.0'),('5015/315/415','0.901 - 1000','15.0','12.5','4.0','6.0','0.0','1.1','0.9','6.0','12.0','5.0','12.0'),('Mono','0.100 - 0.200','15.0','12.5','12.0','12.0','4.0','4.0','4.0','6.0','12.0','5.0','12.0'),('Mono','0.201 - 0.300','15.0','12.5','10.0','12.0','4.0','3.3','4.0','6.0','12.0','5.0','12.0'),('Mono','0.301 - 0.400','15.0','12.5','10.0','10.0','3.1','2.7','2.7','6.0','12.0','5.0','12.0'),('Mono','0.401 - 0.500','15.0','12.5','8.6','10.0','2.7','2.2','1.6','6.0','12.0','5.0','12.0'),('Mono','0.501 - 0.600','15.0','12.5','7.5','4.0','0.0','2.0','1.0','6.0','12.0','5.0','12.0'),('Mono','0.601 - 0.700','15.0','12.5','6.0','4.0','0.0','1.6','1.0','6.0','12.0','5.0','12.0'),('Mono','0.701 - 0.800','15.0','12.5','5.0','4.0','0.0','1.3','1.0','6.0','12.0','5.0','12.0'),('ND','0.100 - 0.200','15','12.5','0.0','12.0','4.0','4.0','4.0','6.0','12.0','5.0','12.0'),('ND','0.201 - 0.300','15','12.5','10.0','12.0','4.0','3.3','4.0','6.0','12.0','5.0','12.0'),('ND','0.301 - 0.400','15','12.5','10.0','10.0','3.1','2.7','2.7','6.0','12.0','5.0','12.0'),('ND','0.401 - 0.500','15','12.5','8.6','10.0','2.7','2.2','1.6','6.0','12.0','5.0','12.0'),('ND','0.501 - 0.600','15','12.5','7.5','4.0','0.0','2.0','1.0','6.0','12.0','5.0','12.0'),('ND','0.601 - 0.700','15','12.5','6.0','4.0','0.0','1.6','1.0','6.0','12.0','5.0','12.0'),('ND','0.701 - 0.800','15','12.5','5.0','4.0','0.0','1.3','1.0','6.0','12.0','5.0','12.0'),('ND R/C','0.100 - 0.200','','','','','2.0','6.7','4.0','6.0','12.0','5.0','12.0'),('ND R/C','0.201 - 0.300','','','','','2.0','5.7','4.0','6.0','12.0','5.0','12.0'),('ND R/C','0.301 - 0.400','','','','','1.6','4.0','2.7','6.0','12.0','5.0','12.0'),('ND R/C','0.401 - 0.500','','','','','1.3','3.1','1.6','6.0','12.0','5.0','12.0'),('ND R/C','0.501 - 0.600','','','','3.5','0.0','2.0','1.0','6.0','12.0','5.0','12.0'),('ND R/C','0.601 - 0.700','','','','3.5','0.0','1.6','1.0','6.0','12.0','5.0','12.0'),('ND R/C','0.701 - 0.800','','','','3.5','0.0','1.3','1.0','6.0','12.0','5.0','12.0'),('ND R/C','0.801 - 0.900','','','','3.5','0.0','1.3','0.9','6.0','12.0','5.0','12.0'),('ND R/C','0.901 - 1000','','','','3.5','0.0','1.1','0.9','6.0','12.0','5.0','12.0'),('PCD R/C','0.100 - 0.200','','','','','2.0','1.8','1.8','6.0','12.0','5.0','12.0'),('PCD R/C','0.201 - 0.300','','','','','1.6','1.5','1.5','6.0','12.0','5.0','12.0'),('PCD R/C','0.301 - 0.400','','','','','1.3','1.3','1.3','6.0','12.0','5.0','12.0'),('PCD R/C','0.401 - 0.500','','','','','1.3','1.3','1.1','6.0','12.0','5.0','12.0'),('PCD R/C','0.501 - 0.600','','','','6.0','0.0','1.1','1.1','6.0','12.0','5.0','12.0'),('PCD R/C','0.601 - 0.700','','','','6.0','0.0','1.1','1.0','6.0','12.0','5.0','12.0'),('PCD R/C','0.701 - 0.800','','','','6.0','0.0','1.0','1.0','6.0','12.0','5.0','12.0'),('PCD R/C','0.801 - 0.900','','','','3.5','0.0','1.0','0.9','6.0','12.0','5.0','12.0'),('PCD R/C','0.901 - 1000','','','','3.5','0.0','1.0','0.9','6.0','12.0','5.0','12.0');
+/*!40000 ALTER TABLE `junctionwiseoutputph` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `machinedetails`
+--
+
+DROP TABLE IF EXISTS `machinedetails`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `machinedetails` (
+  `Group_Name` varchar(45) NOT NULL,
+  `Group_Involved` varchar(20) NOT NULL,
+  `WP_B_Machines` int(11) DEFAULT NULL,
+  `WP_S_Machines` int(11) DEFAULT NULL,
+  `US_Pol_Machines` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Group_Name`,`Group_Involved`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `machinedetails`
+--
+
+LOCK TABLES `machinedetails` WRITE;
+/*!40000 ALTER TABLE `machinedetails` DISABLE KEYS */;
+INSERT INTO `machinedetails` VALUES ('RKT 1','Rkt 1 & Universal',2,1,1),('RKT 2','Rkt 2 & 3',1,1,1),('RKT 3','Rkt 2 & 3',2,2,2);
+/*!40000 ALTER TABLE `machinedetails` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `unconfirmedorders`
+--
+
+DROP TABLE IF EXISTS `unconfirmedorders`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `unconfirmedorders` (
+  `CC` varchar(45) NOT NULL,
+  `SP` varchar(45) DEFAULT NULL,
+  `Priority` varchar(45) DEFAULT NULL,
+  `Enquiry_Date` datetime DEFAULT NULL,
+  `Raw_Aval` varchar(20) DEFAULT NULL,
+  `Raw_Yes_Pur_Quant` int(11) DEFAULT NULL,
+  `Raw_Yes_WIP_Quant` int(11) DEFAULT NULL,
+  `Raw_Prtl_Pur_Quant` int(11) DEFAULT NULL,
+  `Raw_Prtl_WIP_Quant` int(11) DEFAULT NULL,
+  `Raw_Prtl_Bal_Quant` int(11) DEFAULT NULL,
+  `Raw_Yes_Wip_Junctn` varchar(45) DEFAULT NULL,
+  `Raw_Prtl_WIP_Junctn` varchar(45) DEFAULT NULL,
+  `Raw_Prtl_Bal_Arrival` date DEFAULT NULL,
+  `Raw_No_Arrival` date DEFAULT NULL,
+  `Item` varchar(45) NOT NULL,
+  `Rng` varchar(45) NOT NULL,
+  `Qnty` int(11) DEFAULT NULL,
+  `Cust_Date` date DEFAULT NULL,
+  `Mach_WP` int(11) DEFAULT NULL,
+  `Mach_WS` int(11) DEFAULT NULL,
+  `Mach_US` int(11) DEFAULT NULL,
+  `Group_Involved` varchar(45) DEFAULT NULL,
+  `Group_Name` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`CC`,`Item`,`Rng`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `unconfirmedorders`
+--
+
+LOCK TABLES `unconfirmedorders` WRITE;
+/*!40000 ALTER TABLE `unconfirmedorders` DISABLE KEYS */;
+INSERT INTO `unconfirmedorders` VALUES ('101','KB','Green','2014-04-03 00:00:00','Yes',40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'ND','0.100 - 0.200',40,'2014-04-29',1,1,1,'Mutiple Group',NULL),('1017404','KB','Green','2014-04-03 00:00:00','Yes',40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'ND','0.201 - 0.300',40,'2014-04-29',1,1,1,'Mutiple Group','Rkt 2 & 3'),('102','KB','Green','2014-04-03 00:00:00','Yes',40,20,NULL,NULL,NULL,'WP Bending',NULL,NULL,NULL,'ND','0.100 - 0.200',60,'2014-04-29',1,1,1,'Mutiple Group',NULL),('103','KB','','2014-04-03 00:00:00','Yes',NULL,40,NULL,NULL,NULL,'WP Bending',NULL,NULL,NULL,'ND','0.100 - 0.200',40,'2014-04-30',2,1,1,'Single Group',NULL),('104','','Red','2014-04-03 00:00:00','Partial',NULL,NULL,40,NULL,NULL,NULL,NULL,NULL,NULL,'ND','0.401 - 0.500',40,'2014-04-30',2,1,1,'Single Group',NULL),('105','','Green','2014-04-03 00:00:00','Partial',NULL,NULL,NULL,40,NULL,NULL,'WP Straight',NULL,NULL,'ND','0.100 - 0.200',40,'2014-05-07',1,1,1,'Single Group',NULL),('106','RM','Green','2014-04-03 00:00:00','No',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'2014-04-03','ND','0.100 - 0.200',40,'2014-04-30',2,1,1,'Mutiple Group',NULL),('110','KB','','2014-04-17 00:00:00','No',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'2014-04-17','ND','0.201 - 0.300',40,'2014-04-30',2,1,1,'Mutiple Group',NULL),('4000','KB','Green-U','2014-04-03 00:00:00','Yes',50,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'ND','0.201 - 0.300',50,'2014-04-09',1,1,1,'Mutiple Group',NULL),('45','KB','Green','2014-04-03 00:00:00','Partial',NULL,NULL,20,10,10,NULL,'','2014-04-17',NULL,'ND','0.100 - 0.200',40,'2014-04-29',2,1,1,'Mutiple Group',NULL),('kjbkjb','KB','Green','2014-04-04 00:00:00','Yes',20,20,NULL,NULL,NULL,'WE Rework',NULL,NULL,NULL,'315(25)/415(25)','0.501 - 0.600',40,'2014-04-04',2,1,1,'Single Group','Rkt 2 & 3');
+/*!40000 ALTER TABLE `unconfirmedorders` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2014-04-04  2:24:05
+CREATE DATABASE  IF NOT EXISTS `mikrotek` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `mikrotek`;
+-- MySQL dump 10.13  Distrib 5.6.11, for Win32 (x86)
+--
+-- Host: localhost    Database: mikrotek
+-- ------------------------------------------------------
+-- Server version	5.6.13-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `group_output_capacity`
+--
+
+DROP TABLE IF EXISTS `group_output_capacity`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `group_output_capacity` (
+  `Sr No` int(11) NOT NULL AUTO_INCREMENT,
+  `Group` varchar(45) NOT NULL,
+  `Capacity` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Group`),
+  UNIQUE KEY `Sr No_UNIQUE` (`Sr No`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `group_output_capacity`
+--
+
+LOCK TABLES `group_output_capacity` WRITE;
+/*!40000 ALTER TABLE `group_output_capacity` DISABLE KEYS */;
+INSERT INTO `group_output_capacity` VALUES (1,'Rocket2','20'),(2,'Rocket3','30');
+/*!40000 ALTER TABLE `group_output_capacity` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `mastertable`
+--
+
+DROP TABLE IF EXISTS `mastertable`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `mastertable` (
+  `SP` varchar(20) NOT NULL,
+  `Group_Name` varchar(10) NOT NULL,
+  `Priority` varchar(2) NOT NULL,
+  `WO` int(11) NOT NULL,
+  `CC` varchar(10) NOT NULL,
+  `Item` varchar(50) NOT NULL,
+  `Order_Qty` int(11) NOT NULL,
+  `Acc` int(11) DEFAULT NULL,
+  `Bal` int(11) DEFAULT NULL,
+  `Committed_Date` varchar(20) NOT NULL,
+  `RD1` varchar(20) DEFAULT NULL,
+  `RD2` varchar(20) DEFAULT NULL,
+  `RD3` varchar(20) DEFAULT NULL,
+  `RD4` varchar(20) DEFAULT NULL,
+  `Value_L` decimal(10,0) NOT NULL,
+  `Remarks` varchar(200) DEFAULT NULL,
+  `Status` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`WO`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `mastertable`
+--
+
+LOCK TABLES `mastertable` WRITE;
+/*!40000 ALTER TABLE `mastertable` DISABLE KEYS */;
+/*!40000 ALTER TABLE `mastertable` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `orders`
+--
+
+DROP TABLE IF EXISTS `orders`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `orders` (
+  `order_id` varchar(50) DEFAULT NULL,
+  `customer_id` varchar(45) DEFAULT NULL,
+  `blank_size` varchar(45) DEFAULT NULL,
+  `range_size` varchar(45) DEFAULT NULL,
+  `case_size` varchar(45) DEFAULT NULL,
+  `dispatch_date` varchar(45) DEFAULT NULL,
+  `quantity` varchar(45) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `orders`
+--
+
+LOCK TABLES `orders` WRITE;
+/*!40000 ALTER TABLE `orders` DISABLE KEYS */;
+/*!40000 ALTER TABLE `orders` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `process_time`
+--
+
+DROP TABLE IF EXISTS `process_time`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `process_time` (
+  `Sr No.` int(11) DEFAULT NULL,
+  `Blank_Name` varchar(60) DEFAULT NULL,
+  `Size_Number` varchar(60) DEFAULT '',
+  `Sintering` varchar(45) DEFAULT NULL,
+  `EntryExit` varchar(45) DEFAULT NULL,
+  `Laser` varchar(45) DEFAULT NULL,
+  `US_Shaping` varchar(45) DEFAULT NULL,
+  `Wire_Polishing_Bending` varchar(45) DEFAULT NULL,
+  `Wire_Polishing_Straight` varchar(45) DEFAULT NULL,
+  `Wire_Enclosure_Rework` varchar(45) DEFAULT NULL,
+  `Visual_Dimensional_Inspection` varchar(45) DEFAULT NULL,
+  `Dipatch_Finish` varchar(45) DEFAULT NULL,
+  `Packing_Dispatch` varchar(45) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `process_time`
+--
+
+LOCK TABLES `process_time` WRITE;
+/*!40000 ALTER TABLE `process_time` DISABLE KEYS */;
+INSERT INTO `process_time` VALUES (1,'ND','0.100 - 0.200','8','20','5','5','10','10','10','10','5','12'),(2,'ND','0.201 - 0.300','8','20','6','5','10','12','10','10','5','12'),(3,'ND','0.301 - 0.400','8','20','6','5','13','15','15','10','5','12'),(4,'ND','0.401 - 0.500','8','20','7','5','15','18','25','10','5','12'),(5,'ND','0.501 - 0.600','8','20','8','5','0','20','40','10','5','12'),(6,'ND','0.601 - 0.700','8','20','10','5','0','25','40','10','5','12'),(7,'ND','0.701 - 0.800','8','20','12','5','0','30','40','10','5','12'),(8,'ND','0.801 - 0.900','0','20','0','5','0','0','0','10','5','12'),(9,'ND','0.901 - 1000','0','20','0','5','0','0','0','10','5','12'),(10,'MONO','0.100 - 0.200','8','20','5','5','10','10','10','10','5','12'),(11,'MONO','0.201 - 0.300','8','20','6','5','10','12','10','10','5','12'),(12,'MONO','0.301 - 0.400','8','20','6','6','13','15','15','10','5','12'),(13,'MONO','0.401 - 0.500','8','20','7','6','15','18','25','10','5','12'),(14,'MONO','0.501 - 0.600','8','20','8','15','0','20','40','10','5','12'),(15,'MONO','0.601 - 0.700','8','20','10','15','0','25','40','10','5','12'),(16,'MONO','0.701 - 0.800','0','20','12','15','0','30','40','10','5','12'),(17,'MONO','0.801 - 0.900','0','20','0','0','0','0','0','10','5','12'),(18,'MONO','0.901 - 1000','0','20','0','0','0','0','0','10','5','12'),(19,'5010  / 210 /     310','0.100 - 0.200','7','20','6','5','6','15','20','10','5','12'),(20,'5010  / 210 /     310','0.201 - 0.300','7','20','7','5','8','20','20','10','5','12'),(21,'5010  / 210 /     310','0.301 - 0.400','7','20','8','5','15','20','25','10','5','12'),(22,'5010  / 210 /     310','0.401 - 0.500','7','20','9','5','20','25','30','10','5','12'),(23,'5010  / 210 /     310','0.501 - 0.600','7','20','10','12','0','25','35','10','5','12'),(24,'5010  / 210 /     310','0.601 - 0.700','7','20','12','12','0','30','35','10','5','12'),(25,'5010  / 210 /     310','0.701 - 0.800','7','20','12','12','0','30','40','10','5','12'),(26,'5010  / 210 /     310','0.801 - 0.900','7','20','0','12','0','0','0','10','5','12'),(27,'5010  / 210 /     310','0.901 - 1000','7','20','0','12','0','0','0','10','5','12'),(28,'210(25) /310(25)','0.100 - 0.200','7','20','6','5','10','20','20','10','5','12'),(29,'210(25) /310(25)','0.201 - 0.300','7','20','7','5','15','25','25','10','5','12'),(30,'210(25) /310(25)','0.301 - 0.400','7','20','8','5','25','30','30','10','5','12'),(31,'210(25) /310(25)','0.401 - 0.500','7','20','9','5','25','30','35','10','5','12'),(32,'210(25) /310(25)','0.501 - 0.600','7','20','10','17','0','35','35','10','5','12'),(33,'210(25) /310(25)','0.601 - 0.700','7','20','12','17','0','35','40','10','5','12'),(34,'210(25) /310(25)','0.701 - 0.800','7','20','12','17','0','35','40','10','5','12'),(35,'210(25) /310(25)','0.801 - 0.900','7','20','0','17','0','0','0','10','5','12'),(36,'210(25) /310(25)','0.901 - 1000','7','20','0','17','0','0','0','10','5','12'),(37,'5015  / 315 /     415','0.100 - 0.200','7','20','8','5','8','17','22','10','5','12'),(38,'5015  / 315 /     415','0.201 - 0.300','7','20','10','5','10','23','22','10','5','12'),(39,'5015  / 315 /     415','0.301 - 0.400','7','20','12','5','17','23','27','10','5','12'),(40,'5015  / 315 /     415','0.401 - 0.500','7','20','12','5','22','28','32','10','5','12'),(41,'5015  / 315 /     415','0.501 - 0.600','7','20','10','10','0','28','37','10','5','12'),(42,'5015  / 315 /     415','0.601 - 0.700','7','20','10','10','0','33','37','10','5','12'),(43,'5015  / 315 /     415','0.701 - 0.800','7','20','12','10','0','33','42','10','5','12'),(44,'5015  / 315 /     415','0.801 - 0.900','7','20','15','10','0','35','45','10','5','12'),(45,'5015  / 315 /     415','0.901 - 1000','7','20','15','10','0','35','45','10','5','12'),(46,'315(25) /415(25)','0.100 - 0.200','7','20','8','5','20','22','22','10','5','12'),(47,'315(25) /415(25)','0.201 - 0.300','7','20','10','5','20','27','27','10','5','12'),(48,'315(25) /415(25)','0.301 - 0.400','7','20','12','5','25','32','32','10','5','12'),(49,'315(25) /415(25)','0.401 - 0.500','7','20','12','5','30','32','37','10','5','12'),(50,'315(25) /415(25)','0.501 - 0.600','7','20','10','12','0','37','37','10','5','12'),(51,'315(25) /415(25)','0.601 - 0.700','7','20','10','12','0','37','42','10','5','12'),(52,'315(25) /415(25)','0.701 - 0.800','7','20','12','12','0','40','42','10','5','12'),(53,'315(25) /415(25)','0.801 - 0.900','7','20','15','12','0','40','45','10','5','12'),(54,'315(25) /415(25)','0.901 - 1000','7','20','15','12','0','40','45','10','5','12'),(55,'ND R/C','0.100 - 0.200','0','0','0','0','20','2','10','10','5','12'),(56,'ND R/C','0.201 - 0.300','0','0','0','0','20','6','10','10','5','12'),(57,'ND R/C','0.301 - 0.400','0','0','0','0','25','10','15','10','5','12'),(58,'ND R/C','0.401 - 0.500','0','0','0','0','30','13','25','10','5','12'),(59,'ND R/C','0.501 - 0.600','0','0','0','17','0','20','40','10','5','12'),(60,'ND R/C','0.601 - 0.700','0','0','0','17','0','25','40','10','5','12'),(61,'ND R/C','0.701 - 0.800','0','0','0','17','0','30','40','10','5','12'),(62,'ND R/C','0.801 - 0.900','0','0','0','17','0','30','45','10','5','12'),(63,'ND R/C','0.901 - 1000','0','0','0','17','0','35','45','10','5','12'),(64,'PCD R/C','0.100 - 0.200','0','0','0','0','20','22','22','10','5','12'),(65,'PCD R/C','0.201 - 0.300','0','0','0','0','25','27','27','10','5','12'),(66,'PCD R/C','0.301 - 0.400','0','0','0','0','30','32','32','10','5','12'),(67,'PCD R/C','0.401 - 0.500','0','0','0','0','30','32','37','10','5','12'),(68,'PCD R/C','0.501 - 0.600','0','0','0','10','0','37','37','10','5','12'),(69,'PCD R/C','0.601 - 0.700','0','0','0','10','0','37','42','10','5','12'),(70,'PCD R/C','0.701 - 0.800','0','0','0','10','0','40','42','10','5','12'),(71,'PCD R/C','0.801 - 0.900','0','0','0','17','0','40','45','10','5','12'),(72,'PCD R/C','0.901 - 1000','0','0','0','17','0','40','45','10','5','12');
+/*!40000 ALTER TABLE `process_time` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tracking`
+--
+
+DROP TABLE IF EXISTS `tracking`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tracking` (
+  `customerid` varchar(50) NOT NULL DEFAULT '',
+  `rawmaterial` varchar(45) DEFAULT NULL,
+  `pregroup` varchar(45) DEFAULT NULL,
+  `dispatch` varchar(45) DEFAULT NULL,
+  `groups` varchar(45) DEFAULT NULL,
+  `dispatch_date` varchar(45) DEFAULT NULL,
+  `items` varchar(45) DEFAULT NULL,
+  `item_type` varchar(45) DEFAULT NULL,
+  `work_order` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`customerid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tracking`
+--
+
+LOCK TABLES `tracking` WRITE;
+/*!40000 ALTER TABLE `tracking` DISABLE KEYS */;
+INSERT INTO `tracking` VALUES ('456','5','4','2','3','25/12/2013','60','ND','101'),('789','33','8','22','1','23/12/2013','63','ND','102');
+/*!40000 ALTER TABLE `tracking` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2014-04-04  2:24:06
+CREATE DATABASE  IF NOT EXISTS `backlogmaster` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `backlogmaster`;
+-- MySQL dump 10.13  Distrib 5.6.11, for Win32 (x86)
+--
+-- Host: localhost    Database: backlogmaster
+-- ------------------------------------------------------
+-- Server version	5.6.13-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `mastertable`
+--
+
+DROP TABLE IF EXISTS `mastertable`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `mastertable` (
+  `WO` varchar(50) NOT NULL,
+  `SP` varchar(45) NOT NULL,
+  `CC` varchar(45) NOT NULL,
+  `Committed_Date` date DEFAULT NULL,
+  `RD1` date DEFAULT NULL,
+  `RD2` date DEFAULT NULL,
+  `RD3` date DEFAULT NULL,
+  `RD4` date DEFAULT NULL,
+  `Value_L` double(10,2) NOT NULL,
+  `Multiple_DD` varchar(5) DEFAULT NULL,
+  PRIMARY KEY (`WO`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `mastertable`
+--
+
+LOCK TABLES `mastertable` WRITE;
+/*!40000 ALTER TABLE `mastertable` DISABLE KEYS */;
+INSERT INTO `mastertable` VALUES ('101','RM','101454','2014-02-11',NULL,NULL,NULL,NULL,1.00,'No'),('7891','SRDR','AW101','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7892','KB','AW103','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7893','KB','AW104','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7894','KB','AW105','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7895','RM','AW103','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7896','RM','AW104','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7897','RM','AW105','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No'),('7898','RM','AW106','2014-02-03',NULL,NULL,NULL,NULL,1.00,'No');
+/*!40000 ALTER TABLE `mastertable` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `summtable`
+--
+
+DROP TABLE IF EXISTS `summtable`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `summtable` (
+  `Item_Type` varchar(60) NOT NULL,
+  `Groups` varchar(60) NOT NULL,
+  `Group_Name` varchar(20) NOT NULL,
+  `Press_Lead_Time` varchar(40) DEFAULT NULL,
+  `Ord_Req_Time` varchar(40) DEFAULT NULL,
+  `Avg_Prod` int(50) DEFAULT NULL,
+  `Monthly_Target` int(20) DEFAULT NULL,
+  `Daily_Target` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Group_Name`,`Item_Type`,`Groups`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `summtable`
+--
+
+LOCK TABLES `summtable` WRITE;
+/*!40000 ALTER TABLE `summtable` DISABLE KEYS */;
+INSERT INTO `summtable` VALUES ('Regl Independent group','Independent','INDEPENDENT','3','3',8,0,0),('Laser Drilled Dies ','LDD','LDD','5','6',0,0,0),('Regl Uni & Rkt 1','Rkt 1 & Universal','RKT 1','5','6',20,0,0),('Regl Rkt 2 & 3','Rkt 2 & 3','RKT 2','5','6',35,0,0),('Regl Rkt 2 & 3','Rkt 2 & 3','RKT 3','5','6',36,0,0),('Regl Rkt 4 & 5','Rkt 4 & 5','RKT 4','5','6',40,0,0),('Regl Rkt 4 & 5','Rkt 4 & 5','RKT 5','5','6',35,0,0),('Medium Rkt 6','Rkt 6','RKT 6','6','10',7,0,0),('Fine Dies','Rose 1 & Rose 2','ROSE 1','5','6',100,0,0),('Fine Dies','Rose 1 & Rose 2','ROSE 2','5','6',60,0,0),('RBD Dies - Star 1','Star 1','STAR 1','6','10',25,0,0),('Medium - Star 2','Star 2','STAR 2','6','10',17,0,0),('TC Dies ','Sun ','SUN ','5','10',120,0,0),('TCEnml','Sun ','SUN ','5','10',120,0,0),('Regl Uni & Rkt 1','Rkt 1 & Universal','UNIVERSAL','5','6',50,0,0);
+/*!40000 ALTER TABLE `summtable` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `unconfirmedorders`
+--
+
+DROP TABLE IF EXISTS `unconfirmedorders`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `unconfirmedorders` (
+  `CC` varchar(45) NOT NULL,
+  `SP` varchar(45) DEFAULT NULL,
+  `Priority` varchar(45) DEFAULT NULL,
+  `Enquiry_Date` datetime DEFAULT NULL,
+  `Raw_Aval` varchar(20) DEFAULT NULL,
+  `Raw_Quant` int(11) DEFAULT NULL,
+  `Raw_Junctn` varchar(45) DEFAULT NULL,
+  `Raw_Arrival` datetime DEFAULT NULL,
+  `Item` varchar(45) DEFAULT NULL,
+  `Range` varchar(45) DEFAULT NULL,
+  `Qnty` int(11) DEFAULT NULL,
+  `Cust_Date` datetime DEFAULT NULL,
+  `Mach_WP` int(11) DEFAULT NULL,
+  `Mach_WS` int(11) DEFAULT NULL,
+  `Mach_US` int(11) DEFAULT NULL,
+  PRIMARY KEY (`CC`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `unconfirmedorders`
+--
+
+LOCK TABLES `unconfirmedorders` WRITE;
+/*!40000 ALTER TABLE `unconfirmedorders` DISABLE KEYS */;
+/*!40000 ALTER TABLE `unconfirmedorders` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `wotable`
+--
+
+DROP TABLE IF EXISTS `wotable`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wotable` (
+  `WO` varchar(45) NOT NULL,
+  `Priority` varchar(10) NOT NULL,
+  `Group_Name` varchar(45) NOT NULL,
+  `Item` varchar(10) NOT NULL,
+  `Order_Qty` int(10) DEFAULT NULL,
+  `Disp` int(10) DEFAULT NULL,
+  `Bal` int(10) DEFAULT NULL,
+  `Acc` int(10) DEFAULT NULL,
+  `Bal_Acc` int(10) DEFAULT NULL,
+  `Committed_Date` date NOT NULL DEFAULT '0000-00-00',
+  `RD1` date DEFAULT NULL,
+  `RD2` date DEFAULT NULL,
+  `RD3` date DEFAULT NULL,
+  `RD4` date DEFAULT NULL,
+  `Remarks` varchar(200) DEFAULT NULL,
+  `Status` varchar(15) DEFAULT NULL,
+  `Value_L` double(10,2) DEFAULT NULL,
+  `Groups` varchar(60) DEFAULT NULL,
+  `Sr_No` bigint(20) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`WO`,`Group_Name`,`Item`,`Committed_Date`),
+  UNIQUE KEY `Sr_No_UNIQUE` (`Sr_No`),
+  KEY `WO_idx` (`WO`,`Value_L`),
+  KEY `WO_Key` (`WO`),
+  CONSTRAINT `WO_Key` FOREIGN KEY (`WO`) REFERENCES `mastertable` (`WO`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `wotable`
+--
+
+LOCK TABLES `wotable` WRITE;
+/*!40000 ALTER TABLE `wotable` DISABLE KEYS */;
+INSERT INTO `wotable` VALUES ('101','Red','STAR 2','PCD',10,0,10,0,0,'2014-02-11',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Star 2',25),('7891','Red','RKT 5','ND',50,0,50,0,0,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 4 & 5',17),('7892','Red','RKT 2','Mono',50,0,50,0,0,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',18),('7893','Red','RKT 2','Mono',50,0,50,0,50,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',19),('7894','Red','RKT 2','PCD',50,0,50,0,50,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',20),('7895','Red','RKT 2','ND',50,0,50,0,50,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',21),('7896','Red','RKT 2','ND',50,0,50,0,50,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',22),('7897','Red','RKT 2','ND',50,0,50,0,50,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',23),('7898','Red','RKT 2','ND',50,0,50,0,50,'2014-02-03',NULL,NULL,NULL,NULL,NULL,'Undelivered',1.00,'Rkt 2 & 3',24);
+/*!40000 ALTER TABLE `wotable` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2014-04-04  2:24:07
