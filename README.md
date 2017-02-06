@@ -1,7 +1,7 @@
 # SPOT-ON---Scheduler---Planner---Organizer
 A software to predict customer dispatch dates in manufacturing industries using an enhanced round robin scheduling algorithm.
 
-1. It is a planning software which keeps track of backlogs, availability of raw materials and other important tasks.
+1) It is a planning software which keeps track of backlogs, availability of raw materials and other important tasks.
 
 2) Targets: .Net framework 4.5, Visual Studio 2012 or above
 
