@@ -12,3 +12,5 @@ A software to predict customer dispatch dates in manufacturing industries using 
 5) To start: 1) Download the PlanningSoftware folder; 2) open in Visual Studio and run. 
 You can also install it through setup files Spot On v1.00
 
+Note:- The first protype of this project is already implemented in Mikrotek Machines Limited, a diamond die manufacturing organization in India. The database values are fake to create a scenario for playing around with predicting dispatch dates and viewing backlogs, generating reports etc.
+
